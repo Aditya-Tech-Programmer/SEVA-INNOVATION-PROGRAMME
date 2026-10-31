@@ -1,0 +1,72 @@
+{
+  "bookings": [
+    {
+      "Workshop": "Hamrapur Kala Kendra",
+      "Truck": "MH-06-AB-1123",
+      "Idols": 220,
+      "Hour": 10
+    },
+    {
+      "Workshop": "Kasar Ali Shilp",
+      "Truck": "MH-43-CD-4521",
+      "Idols": 180,
+      "Hour": 10
+    },
+    {
+      "Workshop": "Antora Murti Ghar",
+      "Truck": "MH-06-EF-9087",
+      "Idols": 300,
+      "Hour": 11
+    },
+    {
+      "Workshop": "Hamrapur Kala Kendra",
+      "Truck": "MH-46-GH-3310",
+      "Idols": 150,
+      "Hour": 11
+    },
+    {
+      "Workshop": "Chinchpada Studio",
+      "Truck": "MH-06-JK-7765",
+      "Idols": 260,
+      "Hour": 13
+    },
+    {
+      "Workshop": "Kasar Ali Shilp",
+      "Truck": "MH-04-LM-2201",
+      "Idols": 210,
+      "Hour": 18
+    }
+  ],
+  "cleaned": {
+    "Hamrapur Kala Kendra": "2026-10-31T05:34:16.924934",
+    "Kasar Ali Shilp": "2026-10-30T21:34:16.924934",
+    "Antora Murti Ghar": "2026-10-31T02:34:16.924934",
+    "Chinchpada Studio": "2026-10-30T12:34:16.924934"
+  },
+  "tickets": [
+    {
+      "ID": "MM-101",
+      "Type": "Clogged drain",
+      "Place": "Kasar Ali lane",
+      "Note": "White slurry overflowing near school gate",
+      "Status": "Open",
+      "Time": "2026-10-31 03:34:16.924934"
+    },
+    {
+      "ID": "MM-102",
+      "Type": "Truck blocking lane",
+      "Place": "Antora junction",
+      "Note": "16-wheeler loading since morning",
+      "Status": "In progress",
+      "Time": "2026-10-31 05:34:16.924934"
+    },
+    {
+      "ID": "MM-103",
+      "Type": "PoP dumping",
+      "Place": "Hamrapur lane",
+      "Note": "Wash water going straight into gutter",
+      "Status": "Resolved",
+      "Time": "2026-10-30 06:34:16.924934"
+    }
+  ]
+}
